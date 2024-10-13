@@ -4,6 +4,6 @@ console.log('apalah');
 
 console.log('berhasil login');
 
-console.log('berhasil sign up');
+console.log('berhasil logout');
 
-console.log('test conflict 2');
+console.log('test conflict');
