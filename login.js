@@ -4,4 +4,4 @@ console.log('apalah');
 
 console.log('berhasil login');
 
-console.log('berhasil logout');
+console.log('berhasil sign up');
